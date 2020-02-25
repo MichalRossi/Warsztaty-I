@@ -1,0 +1,25 @@
+
+O
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ëÚé˜
+gsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(µ¢–·øÿÿÿÿ
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(¨Çë¸úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(âÓ±øÿÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(”Ÿõ¨ûÿÿÿÿ
+Nsquid:S2589&"7Remove this expression which always evaluates to "true"(ëÚé˜
+gsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(§Ä¹–ÿÿÿÿÿ
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ÂûÿÇûÿÿÿÿ
+asquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(‘ í^
+bsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(š×
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ê»Òãüÿÿÿÿ
+bsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(”çôŠ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(éàØ­úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(§Ğ‹¶øÿÿÿÿ
+:squid:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+N
+squid:S106S"9Replace this use of System.out or System.err by a logger.(»ıÍk
+Bsquid:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ

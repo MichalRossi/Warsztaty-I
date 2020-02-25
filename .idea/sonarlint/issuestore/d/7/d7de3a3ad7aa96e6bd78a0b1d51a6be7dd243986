@@ -1,0 +1,10 @@
+
+Xsquid:UselessImportCheck"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÒúÍãûÿÿÿÿ8¶Ğğû-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(§˜ãÜşÿÿÿÿ8Ãòî÷û-
+]squid:UselessImportCheck"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+Asquid:S2119"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8«Å–øû-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(òòÄŞ8íöü÷û-
